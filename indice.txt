@@ -1,3 +1,4 @@
 Capitulo 1: Introduccion a Git
-Capitulo 2:Flujo de trabajo básico
-Capitulo 3:  [A[D[D [2~Flujo de trabajo básico[D[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DRepositorios reomotos
+Capitulo 2: Flujo de trabajo básico
+Capitulo 3: Gestión de ramas
+Capitulo 4: Repositorios reomotos
